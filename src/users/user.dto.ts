@@ -1,6 +1,7 @@
 // create-user.dto.ts
 export class CreateUserDto {
   city: string;
+  city: string;
     name: string;
     email: string;
     phone: string;
