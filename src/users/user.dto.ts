@@ -5,4 +5,6 @@ export class CreateUserDto {
     phone: string;
 
     [key: string]: any// allow extra fields
+    location: string;
+    here: string;
 }
