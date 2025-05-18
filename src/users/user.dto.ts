@@ -13,4 +13,6 @@ export class CreateUserDto {
     here: string;
     location: string;
     here: string;
+    location: string;
+    here: string;
 }
