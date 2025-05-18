@@ -4,7 +4,7 @@ export class CreateUserDto {
     email: string;
     phone: string;
 
-    [key: string]: any; // allow extra fields
+    [key: string]: any // allow extra fields
 }
 
 // Auto-generated fields:
