@@ -4,17 +4,4 @@ export class CreateUserDto {
     email: string;
     phone: string;
 
-    [key: string]: any// allow extra fields
-    location: string;
-    here: string;
-    location: string;
-    here: string;
-    location: string;
-    here: string;
-    location: string;
-    here: string;
-    location: string;
-    here: string;
-    location: string;
-    here: string;
 }

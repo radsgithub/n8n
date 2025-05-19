@@ -14,7 +14,6 @@ export class User {
 
     @Column()
     phone: string;
-    @Column({ type: 'jsonb', nullable: true })
-    extra_fields?: Record<string, any>; // ← dynamic fields go here
+
 }
 
